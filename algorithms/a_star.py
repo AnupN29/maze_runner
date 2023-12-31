@@ -2,10 +2,10 @@ import pygame
 from queue import PriorityQueue
 from utils.reconstruct_path import *
 
-__all__ = ['algorithm']
+__all__ = ['a_star']
 
 
-def algorithm(draw, grid, start, end):
+def a_star(draw, grid, start, end):
 	count = 0
 	open_set = PriorityQueue()
 	open_set.put((0, count, start))

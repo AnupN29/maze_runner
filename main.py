@@ -1,8 +1,7 @@
 import pygame
-import math
-from queue import PriorityQueue
+
 from utils.grid import *
-from utils.a_star import algorithm
+from algorithms.algorithms import algorithm
 from utils.spot import Spot 
 
 WIDTH = 800
