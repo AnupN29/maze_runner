@@ -22,9 +22,13 @@ Maze Runner is a Python project that implements various pathfinding algorithms f
 3. **Run the Application:**
 
    - Execute `python main.py` to launch the Maze Runner GUI.
-4. **Choose Algorithm:**
-
-   - Use the GUI to select a pathfinding algorithm and visualize its performance in real-time.
+   - Click on a grid cell to set it as the starting point.
+   - Click on another grid cell to set it as the ending point.
+   - Hold the left mouse button and draw barricades or obstacles on the grid.
+   - Press the "Space Bar" to initiate maze visualization.
+   - In the terminal, select the desired algorithm for pathfinding.
+   - Hit Enter to start the visualization.
+    - Press "C" to clear the grids and restart, allowing for a new maze run.
 
 ## Contributing
 
