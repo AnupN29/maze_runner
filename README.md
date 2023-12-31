@@ -38,7 +38,7 @@ If you'd like to contribute to Maze Runner, please follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
